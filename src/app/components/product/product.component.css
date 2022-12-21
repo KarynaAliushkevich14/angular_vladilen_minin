@@ -1,3 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Nunito', sans-serif;
+    color: grey;
+    line-height: 1.3;
+  
+}
+
+body {
+    width: 100%;
+    height: auto;
+}
+
 h3 {
-    color: blueviolet;
+    line-height: 3;
+    color: black;
+}
+
+img{
+    justify-content: center;
+}
+
+.price {
+    color: rgb(85, 131, 5);
+    line-height: 2.5;
+    font-size: 1.7rem;
 }
